@@ -1,0 +1,22 @@
+{
+  "name": "motion-dive.tokyo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CatLover91/motion-dive.tokyo.git",
+  "author": "catlover91 <7215827+CatLover91@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "obs-websocket-js": "^1.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.2",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "snazzy": "^7.1.1",
+    "standard": "^11.0.1",
+    "webpack": "^4.2.0",
+    "webpack-dashboard": "^1.1.1",
+    "webpack-dev-server": "^3.1.1"
+  }
+}
